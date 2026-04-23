@@ -1,0 +1,27 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # Jalan setiap jam 9 pagi
+  workflow_dispatch: # Biar bisa dijalanin manual kalau mau
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Run Script
+        run: python bot_commit.py
+
+      - name: Push changes
+        run: |
+          git config --local user.email "kamu@email.com"
+          git config --local user.name "UsernameKamu"
+          git push
