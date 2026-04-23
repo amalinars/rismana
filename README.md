@@ -48,11 +48,11 @@ A passionate **Software Developer** who loves creating elegant solutions through
 
 ### 🌸 My Coding Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=rose_pine&hide_border=true&title_color=D4A5A5&icon_color=D4A5A5&text_color=6b4f4f" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amalinars&show_icons=true&theme=rose_pine&hide_border=true&title_color=D4A5A5&icon_color=D4A5A5&text_color=6b4f4f" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=rose_pine&hide_border=true&title_color=D4A5A5&text_color=6b4f4f" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalinars&layout=compact&theme=rose_pine&hide_border=true&title_color=D4A5A5&text_color=6b4f4f" alt="Top Langs" />
 </p>
 
 ---
