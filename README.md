@@ -1,33 +1,34 @@
-# <p align="center">✨ Hello, I'm Risma Amalina ✨</p>
+# <p align="center">✨ Welcome to Risma's Workspace ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00D1B2&height=150&section=header&text=Fullstack%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fbcce7&height=180&section=header&text=Risma%20Amalina&fontSize=65&animation=fadeIn&fontColor=6b4f4f" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Crafting+Modern+Web+Solutions;Cross-Platform+Mobile+Developer;Node.js+and+Laravel+Expert;Turning+Complexity+into+Simplicity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&pause=1000&color=D4A5A5&center=true&vCenter=true&width=435&lines=Fullstack+Developer+🌸;Node.js+Framework+Expert;Flutter+Enthusiast;Crafting+Code+with+Love+✨" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌿 About Me
-I am a **Software Engineer** dedicated to building high-performance applications with a focus on clean architecture and seamless user experiences. I thrive on solving complex backend logic while maintaining a fresh and modern frontend aesthetic.
+### 🎀 About Me
+A passionate **Software Developer** who loves creating elegant solutions through code. I focus on building scalable backend systems and beautiful cross-platform mobile apps. My goal is to combine technical excellence with a touch of aesthetic perfection.
 
-- 🚀 Currently architecting scalable systems with **Node.js** and **Laravel**.
-- 📱 Crafting beautiful cross-platform experiences using **Flutter**.
-- 🛠️ Deeply interested in **Microservices Architecture** and **Database Optimization**.
-- ⚡ I believe that great software is the perfect balance between **code quality** and **UX design**.
+- 🌸 Currently deepening my expertise in **Node.js Ecosystem** & **Laravel**.
+- 📱 Crafting smooth mobile experiences with **Flutter**.
+- ☁️ Exploring the magic of **Cloud Computing** and **Database Optimization**.
+- ✨ I believe that every line of code should be as clean as a work of art.
 
 ---
 
-### 💻 Technical Expertise
+### 🛠️ Technical Palette
 
 #### **Backend & Logic**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
 </p>
 
 #### **Mobile Development**
@@ -45,22 +46,22 @@ I am a **Software Engineer** dedicated to building high-performance applications
 
 ---
 
-### 📊 Performance Metrics
+### 🌸 My Coding Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RismaAmalina&show_icons=true&theme=tokyonight&hide_border=true&title_color=20B2AA&icon_color=20B2AA" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=rose_pine&hide_border=true&title_color=D4A5A5&icon_color=D4A5A5&text_color=6b4f4f" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RismaAmalina&theme=tokyonight&hide_border=true&stroke=20B2AA&ring=20B2AA&fire=20B2AA" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=rose_pine&hide_border=true&title_color=D4A5A5&text_color=6b4f4f" alt="Top Langs" />
 </p>
 
 ---
 
-### 🕹️ Contribution Activity
+### 🎨 Contribution Garden
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+  <i>"Designing with heart, coding with soul."</i>
 </p>
